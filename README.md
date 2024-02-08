@@ -1,4 +1,4 @@
-# Wikidata Converter from JSON to RDF
+# Wikidata Converter from JSON to RDF - WebApp
 
 - The assertion vs non-assertion logic has been translated into a set of templates each of which has been customised to convert the JSON files in $Dn, \; n \in [1, 3]$ in one of the selected EWA approaches. Such templates are written in [Handelbars syntax](https://handlebarsjs.com/). All templates are available in ```data_conversion/handlebars_templates```. This set of templates has been used to convert **Art** and **Random** claims.
 - Similarly, another set of templates which are available at ```data_conversion/handlebars_templates_dummy``` has been designed to convert JSON files in $Dn, \; n \in [1, 3]$ storing the **Dummy** claims. 
