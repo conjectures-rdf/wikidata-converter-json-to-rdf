@@ -15,3 +15,4 @@
 ## Responsibility statement
 - Developer: Fabio Vitali 
 - Code tuning and debugging: Valentina Pasqual and Eduart Uzeir
+- Templates conceptualisation and implementation: Valentina Pasqual
