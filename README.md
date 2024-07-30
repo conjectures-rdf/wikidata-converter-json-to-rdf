@@ -12,5 +12,6 @@
 	- A .zip folder will be automatically downloaded. This archive contains all RDF files converted against your chosen templates.  
 	- Disclaimer: In folder ```data_conversion``` you can find an additional set of helpers called ```helper.js```, this is meant to be use in data conversions since it reproduces the assertion - non assertion of the statements in the json files.
 
-Developer: Fabio Vitali
-Code tuning: Valentina Pasqual and Eduart Uzeir
+## Responsibility statement
+- Developer: Fabio Vitali 
+- Code tuning and debugging: Valentina Pasqual and Eduart Uzeir
